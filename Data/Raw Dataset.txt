@@ -1,0 +1,7 @@
+Data Sources:
+1. Annual New Registration of Cars by Make
+   Source: https://datamall.lta.gov.sg/content/dam/datamall/datasets/Facts_Figures/Vehicle%20Registration/Annual%20New%20Registration%20of%20Cars%20by%20Make.zip
+2. Electric Vehicle Charging Points
+   Source: https://datamall.lta.gov.sg/content/dam/datamall/datasets/Facts_Figures/Electric-Vehicle-Charging-Network/Electric_Vehicle_Charging_Points.zip
+3. Singapore Postal Code and District Mapping
+   Source: https://www.ura.gov.sg/Corporate/-/media/Corporate/Property/PMI-Online/List_Of_Postal_Districts.pdf
