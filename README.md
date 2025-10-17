@@ -104,7 +104,7 @@ The findings show a strong upward trend in EV registrations from 2022 to 2024. P
 ---
 
 #### **Page 3: Singapore EV Charging Stations Growth (2022–2024)**
-  ![Dashboard Page 3](Dashboard/images/dashboard_page3.png)
+  ![Dashboard Page 3](images/dashboard_page3.png)
 **Objective:**  
 To assess how effectively the EV charging infrastructure has expanded in response to the growing adoption of EVs.
 
