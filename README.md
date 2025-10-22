@@ -25,7 +25,7 @@ To achieve this, the analysis and dashboard aim to:
 ### 2. Data Sources
 The data for this dashboard was obtained from open datasets provided by the **Land Transport Authority (LTA)** and other official Singapore government sources. Three main datasets were used:
 
-- **Annual New Registration of Cars by Make (2022–2024)**  
+- **Annual New Registration of Cars by Make**  
   - Contains data on total car registrations by make, model, and fuel type.  
   - Used to analyze overall car ownership trends and the shift toward EVs.
 
