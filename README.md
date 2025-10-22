@@ -54,7 +54,7 @@ The data for this dashboard was obtained from open datasets provided by the **La
 
 ---
 
-### 4. Dashboard Overview
+## 4. Dashboard Overview
 The Excel dashboard is divided into three main analytical sections, each focusing on a specific aspect of Singapore’s EV ecosystem. Together, they provide a complete picture of how the country is adapting to EVs and building supportive infrastructure.
 
 ---
@@ -124,7 +124,7 @@ The number of EV charging stations has been increasing steadily across all regio
 
 ---
 
-### 5. Conclusion
+## 5. Conclusion
 - The **Singapore EV Adaptation Trend and EV Infrastructure Growth Dashboard (2022–2024)** provides a data-driven analysis of how effectively Singapore is transitioning to electric mobility.  
 - The results show that the country’s EV adoption rate has been growing rapidly and that the expansion of charging infrastructure is successfully keeping pace. This balance demonstrates that Singapore’s EV transformation is well-planned, coordinated, and supported by strong policy execution.  
 - Overall, the findings suggest that Singapore is not only adapting well to EV technology but is also establishing a sustainable and future-ready ecosystem that supports its long-term green transport goals.
