@@ -1,7 +1,7 @@
 # Capstone on Interactive Dashboards with Excel
-  ![Dashboard Page 0](Dashboard/images/dashboard_page0.png)
+  
 ## SINGAPORE EV ADAPTATION TREND AND EV INFRASTRUCTURE GROWTH DASHBOARD (2022–2024)
-
+![Dashboard Page 0](Dashboard/images/dashboard_page0.png)
 ### 1. Problem Statement
 Singapore is currently in the midst of a significant transformation toward sustainable mobility, driven by its Green Plan 2030. One of the key pillars of this plan is the push for electric vehicle (EV) adoption, alongside the gradual phase-out of internal combustion engine vehicles.
 
