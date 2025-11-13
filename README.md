@@ -1,5 +1,5 @@
 # Capstone on Interactive Dashboards with Excel
-
+  ![Dashboard Page 0](Dashboard/images/dashboard_page0.png)
 ## SINGAPORE EV ADAPTATION TREND AND EV INFRASTRUCTURE GROWTH DASHBOARD (2022–2024)
 
 ### 1. Problem Statement
